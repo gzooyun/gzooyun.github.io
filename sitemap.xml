@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https:gzoo5569.github.io/buildDrafts/categories/</loc>
+    <loc>https:gzoo5569.github.io/</loc>
+    <lastmod>2020-08-24T00:00:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https:gzoo5569.github.io/buildDrafts/</loc>
+    <loc>https:gzoo5569.github.io/post/</loc>
+    <lastmod>2020-08-24T00:00:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https:gzoo5569.github.io/buildDrafts/tags/</loc>
+    <loc>https:gzoo5569.github.io/post/blog/</loc>
+    <lastmod>2020-08-24T00:00:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https:gzoo5569.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https:gzoo5569.github.io/tags/</loc>
   </url>
   
 </urlset>
